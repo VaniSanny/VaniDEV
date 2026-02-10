@@ -1,0 +1,548 @@
+[
+  {
+    "id": "1770754192154cosnrckdt",
+    "type": "system",
+    "message": "Registered commands (8 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T20:09:52.154Z"
+  },
+  {
+    "id": "1770754191755h37nec6zv",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T20:09:51.755Z"
+  },
+  {
+    "id": "1770754169862yyoiubas0",
+    "type": "system",
+    "message": "Bot stopped",
+    "status": "success",
+    "timestamp": "2026-02-10T20:09:29.862Z"
+  },
+  {
+    "id": "1770754135519s3jws48mp",
+    "type": "system",
+    "message": "Registered commands (8 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T20:08:55.519Z"
+  },
+  {
+    "id": "1770754135239e8nb7c4f3",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T20:08:55.239Z"
+  },
+  {
+    "id": "1770754121808c55tm5kzy",
+    "type": "system",
+    "message": "Bot stopped",
+    "status": "success",
+    "timestamp": "2026-02-10T20:08:41.808Z"
+  },
+  {
+    "id": "1770754079558e51cujvi3",
+    "type": "moderation",
+    "message": "Sent DM to manji_d_nase",
+    "status": "success",
+    "timestamp": "2026-02-10T20:07:59.558Z"
+  },
+  {
+    "id": "1770753861700wxsl0ym95",
+    "type": "moderation",
+    "message": "Sent DM to manji_d_nase",
+    "status": "success",
+    "timestamp": "2026-02-10T20:04:21.700Z"
+  },
+  {
+    "id": "17707537416485n88cmis0",
+    "type": "system",
+    "message": "Status updated: online | Custom Status",
+    "status": "success",
+    "timestamp": "2026-02-10T20:02:21.648Z"
+  },
+  {
+    "id": "1770753670564gu8ozyzc5",
+    "type": "system",
+    "message": "Registered commands (8 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T20:01:10.564Z"
+  },
+  {
+    "id": "17707536703772yhjgr2db",
+    "type": "system",
+    "message": "Joined new server: testserver",
+    "status": "success",
+    "timestamp": "2026-02-10T20:01:10.377Z"
+  },
+  {
+    "id": "1770753670224bqbzw1m9b",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T20:01:10.224Z"
+  },
+  {
+    "id": "1770753073380x1jlawp6h",
+    "type": "moderation",
+    "message": "Sent DM to vanisanny",
+    "status": "success",
+    "timestamp": "2026-02-10T19:51:13.380Z"
+  },
+  {
+    "id": "1770752668508de7ebi2fc",
+    "type": "system",
+    "message": "Registered commands (8 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:44:28.508Z"
+  },
+  {
+    "id": "1770752629807lk3c7oj5d",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:43:49.807Z"
+  },
+  {
+    "id": "1770752608743wxsdc6hcm",
+    "type": "system",
+    "message": "Registered commands (8 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:43:28.744Z"
+  },
+  {
+    "id": "1770752608677pv5eq82c6",
+    "type": "system",
+    "message": "Registered commands (8 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:43:28.677Z"
+  },
+  {
+    "id": "1770752548324d4bdejls2",
+    "type": "system",
+    "message": "Registered commands (8 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:42:28.324Z"
+  },
+  {
+    "id": "17707525478889fphmbw9c",
+    "type": "system",
+    "message": "Registered commands (8 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:42:27.888Z"
+  },
+  {
+    "id": "177075248934733t2ecm5u",
+    "type": "system",
+    "message": "Registered commands (8 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:41:29.347Z"
+  },
+  {
+    "id": "17707524878573ipenizmy",
+    "type": "system",
+    "message": "Registered commands (8 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:41:27.857Z"
+  },
+  {
+    "id": "1770752294233uoahsrscp",
+    "type": "system",
+    "message": "Registered commands (8 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:38:14.233Z"
+  },
+  {
+    "id": "1770752293740zdy06zjpw",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:38:13.740Z"
+  },
+  {
+    "id": "1770752114138pilk9bbrz",
+    "type": "system",
+    "message": "Registered commands (0 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:35:14.139Z"
+  },
+  {
+    "id": "1770752077514qsyccpw5g",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:34:37.514Z"
+  },
+  {
+    "id": "1770752054084n9zhtzzd6",
+    "type": "system",
+    "message": "Registered commands (0 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:34:14.084Z"
+  },
+  {
+    "id": "1770752053646a7dh31mne",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:34:13.646Z"
+  },
+  {
+    "id": "17707519829754807ghozs",
+    "type": "system",
+    "message": "Registered commands (0 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:33:02.975Z"
+  },
+  {
+    "id": "17707519508061gq0panuv",
+    "type": "system",
+    "message": "Registered commands (0 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:32:30.806Z"
+  },
+  {
+    "id": "17707519506115fhv8miur",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:32:30.611Z"
+  },
+  {
+    "id": "1770751920463rrcxl2gkz",
+    "type": "system",
+    "message": "Registered commands (0 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:32:00.463Z"
+  },
+  {
+    "id": "1770751920266b34h45mot",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:32:00.267Z"
+  },
+  {
+    "id": "1770751868274gxgpmtw95",
+    "type": "system",
+    "message": "Registered commands (0 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:31:08.274Z"
+  },
+  {
+    "id": "1770751868073mernhrsp1",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:31:08.073Z"
+  },
+  {
+    "id": "1770751812414jbyxxyxg6",
+    "type": "system",
+    "message": "Registered commands (0 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:30:12.414Z"
+  },
+  {
+    "id": "17707518121118tf40nzf1",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:30:12.111Z"
+  },
+  {
+    "id": "1770751128041fzgbsbbci",
+    "type": "system",
+    "message": "Registered commands (0 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:18:48.041Z"
+  },
+  {
+    "id": "17707511278685i39hyvye",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:18:47.868Z"
+  },
+  {
+    "id": "1770751012298qe1kbw077",
+    "type": "system",
+    "message": "Registered commands (0 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:16:52.298Z"
+  },
+  {
+    "id": "1770751012109oh0mwunv1",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:16:52.109Z"
+  },
+  {
+    "id": "1770750841881rp6tkd51x",
+    "type": "system",
+    "message": "Registered commands (0 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:14:01.881Z"
+  },
+  {
+    "id": "1770750841635znnagjt61",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:14:01.635Z"
+  },
+  {
+    "id": "1770750652395x2ehp7sx7",
+    "type": "system",
+    "message": "Registered commands (0 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:10:52.395Z"
+  },
+  {
+    "id": "17707506521931mnxa3g6c",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T19:10:52.193Z"
+  },
+  {
+    "id": "1770750013364q1xgnhc1w",
+    "type": "system",
+    "message": "Registered commands (0 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T19:00:13.364Z"
+  },
+  {
+    "id": "1770749929538yqx7lhgx4",
+    "type": "system",
+    "message": "Registered commands (0 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T18:58:49.538Z"
+  },
+  {
+    "id": "17707499264301lwcoaioy",
+    "type": "system",
+    "message": "Registered commands (0 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T18:58:46.430Z"
+  },
+  {
+    "id": "1770749866511jp9qpydz6",
+    "type": "system",
+    "message": "Registered commands (0 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T18:57:46.511Z"
+  },
+  {
+    "id": "1770749866391p0qplz3uo",
+    "type": "system",
+    "message": "Registered commands (0 global, 1 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T18:57:46.391Z"
+  },
+  {
+    "id": "1770749813546xx33fxt2v",
+    "type": "system",
+    "message": "Registered commands (0 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T18:56:53.546Z"
+  },
+  {
+    "id": "1770749806038ljc8aca2y",
+    "type": "system",
+    "message": "Registered commands (1 global, 0 guilds)",
+    "status": "success",
+    "timestamp": "2026-02-10T18:56:46.038Z"
+  },
+  {
+    "id": "1770749805587tsfc7e43n",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T18:56:45.587Z"
+  },
+  {
+    "id": "1770749625138rb7rpg5r4",
+    "type": "system",
+    "message": "Registered 1 slash commands",
+    "status": "success",
+    "timestamp": "2026-02-10T18:53:45.138Z"
+  },
+  {
+    "id": "1770749604473vhz56orjv",
+    "type": "system",
+    "message": "Registered 0 slash commands",
+    "status": "success",
+    "timestamp": "2026-02-10T18:53:24.473Z"
+  },
+  {
+    "id": "1770749590212kk1agyoy0",
+    "type": "system",
+    "message": "Registered 1 slash commands",
+    "status": "success",
+    "timestamp": "2026-02-10T18:53:10.212Z"
+  },
+  {
+    "id": "1770749546594cbfsp18q0",
+    "type": "system",
+    "message": "Registered 0 slash commands",
+    "status": "success",
+    "timestamp": "2026-02-10T18:52:26.594Z"
+  },
+  {
+    "id": "1770749411899gs3r1nu46",
+    "type": "system",
+    "message": "Registered 1 slash commands",
+    "status": "success",
+    "timestamp": "2026-02-10T18:50:11.899Z"
+  },
+  {
+    "id": "1770749411492nykljiway",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T18:50:11.492Z"
+  },
+  {
+    "id": "17707494086920525by3yn",
+    "type": "system",
+    "message": "Bot stopped",
+    "status": "success",
+    "timestamp": "2026-02-10T18:50:08.692Z"
+  },
+  {
+    "id": "1770749392088ny2vhrylh",
+    "type": "system",
+    "message": "Registered 1 slash commands",
+    "status": "success",
+    "timestamp": "2026-02-10T18:49:52.088Z"
+  },
+  {
+    "id": "1770749263191bj61o7pcx",
+    "type": "system",
+    "message": "Registered 0 slash commands",
+    "status": "success",
+    "timestamp": "2026-02-10T18:47:43.191Z"
+  },
+  {
+    "id": "1770749263008bmuw15qyr",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T18:47:43.008Z"
+  },
+  {
+    "id": "1770749139726vek1taftz",
+    "type": "system",
+    "message": "Registered 0 slash commands",
+    "status": "success",
+    "timestamp": "2026-02-10T18:45:39.726Z"
+  },
+  {
+    "id": "1770749139542iucrm12ha",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T18:45:39.542Z"
+  },
+  {
+    "id": "17707486890353pghpt00d",
+    "type": "moderation",
+    "message": "Sent DM to vanisanny",
+    "status": "success",
+    "timestamp": "2026-02-10T18:38:09.035Z"
+  },
+  {
+    "id": "1770748678964wt2vvivij",
+    "type": "moderation",
+    "message": "Sent DM to vanisanny",
+    "status": "success",
+    "timestamp": "2026-02-10T18:37:58.964Z"
+  },
+  {
+    "id": "1770748676609v1v8z6uss",
+    "type": "moderation",
+    "message": "Sent DM to xkuro_no",
+    "status": "success",
+    "timestamp": "2026-02-10T18:37:56.609Z"
+  },
+  {
+    "id": "1770748674827hjuc7cayd",
+    "type": "moderation",
+    "message": "Sent DM to xkuro_no",
+    "status": "success",
+    "timestamp": "2026-02-10T18:37:54.827Z"
+  },
+  {
+    "id": "1770748668909ey6b65rmv",
+    "type": "moderation",
+    "message": "Sent DM to vanisanny",
+    "status": "success",
+    "timestamp": "2026-02-10T18:37:48.909Z"
+  },
+  {
+    "id": "17707486677991ymykqfnk",
+    "type": "moderation",
+    "message": "Sent DM to xkuro_no",
+    "status": "success",
+    "timestamp": "2026-02-10T18:37:47.799Z"
+  },
+  {
+    "id": "1770748491282vrb6k93ff",
+    "type": "moderation",
+    "message": "New member joined VaniBunny TTV: vibo_ie",
+    "status": "success",
+    "timestamp": "2026-02-10T18:34:51.282Z"
+  },
+  {
+    "id": "1770748443443fwuxlpwcv",
+    "type": "system",
+    "message": "Status updated: online | Spammer <3",
+    "status": "success",
+    "timestamp": "2026-02-10T18:34:03.443Z"
+  },
+  {
+    "id": "1770748420722bp6audna4",
+    "type": "system",
+    "message": "Status updated: invisible | f",
+    "status": "success",
+    "timestamp": "2026-02-10T18:33:40.722Z"
+  },
+  {
+    "id": "17707482911922q82u8g1m",
+    "type": "system",
+    "message": "Status updated: dnd | f",
+    "status": "success",
+    "timestamp": "2026-02-10T18:31:31.192Z"
+  },
+  {
+    "id": "1770748284027418a70i8z",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T18:31:24.027Z"
+  },
+  {
+    "id": "17707480889639utxn73lm",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T18:28:08.964Z"
+  },
+  {
+    "id": "1770748078474zh4veqydy",
+    "type": "system",
+    "message": "Bot stopped",
+    "status": "success",
+    "timestamp": "2026-02-10T18:27:58.474Z"
+  },
+  {
+    "id": "1770748068346225zaj3g6",
+    "type": "system",
+    "message": "Bot logged in as Dubi#6954",
+    "status": "success",
+    "timestamp": "2026-02-10T18:27:48.346Z"
+  }
+]

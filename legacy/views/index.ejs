@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bot Landing Page</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #2c2f33;
+            color: #ffffff;
+        }
+
+        .hero {
+            padding: 100px 0;
+            text-align: center;
+            background: linear-gradient(135deg, #7289da, #2c2f33);
+        }
+
+        .feature-box {
+            background-color: #23272a;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .btn-primary {
+            background-color: #7289da;
+            border: none;
+        }
+
+        .btn-primary:hover {
+            background-color: #677bc4;
+        }
+
+        .btn-outline-light:hover {
+            color: #7289da;
+            background-color: #fff;
+        }
+    </style>
+</head>
+
+<body>
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="/">🤖 My Bot</a>
+            <div class="d-flex">
+                <a href="/dashboard" class="btn btn-outline-light btn-sm">Dashboard</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="hero">
+        <div class="container">
+            <h1 class="display-3 fw-bold">The Ultimate Discord Bot</h1>
+            <p class="lead mb-4">Manage your server, play music, and customize your experience.</p>
+            <a href="#" class="btn btn-primary btn-lg px-4 gap-3">Add to Discord</a>
+            <a href="#features" class="btn btn-outline-light btn-lg px-4">Learn More</a>
+        </div>
+    </div>
+
+    <div class="container my-5" id="features">
+        <h2 class="text-center mb-5">Features & Roadmap</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="feature-box text-center">
+                    <h3>Activity Manager</h3>
+                    <p>Change your bot's status directly from the web dashboard. <span
+                            class="badge bg-success">Live</span></p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="feature-box text-center">
+                    <h3>Command List</h3>
+                    <p>View all available commands and their usage. <span class="badge bg-success">Live</span></p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="feature-box text-center">
+                    <h3>Music System</h3>
+                    <p>High quality music playback directly in your voice channels. <span
+                            class="badge bg-secondary">Coming Soon</span></p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="feature-box text-center">
+                    <h3>Moderation</h3>
+                    <p>Advanced moderation tools to keep your server safe. <span class="badge bg-secondary">Coming
+                            Soon</span></p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="feature-box text-center">
+                    <h3>Leveling</h3>
+                    <p>Engage your community with a robust XP system. <span class="badge bg-secondary">Coming
+                            Soon</span></p>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="feature-box text-center">
+                    <h3>Welcome Images</h3>
+                    <p>Customizable welcome cards for new members. <span class="badge bg-secondary">Coming Soon</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container my-5" id="commands">
+        <h2 class="text-center mb-5">Command List</h2>
+        <div class="table-responsive">
+            <table class="table table-dark table-striped">
+                <thead>
+                    <tr>
+                        <th>Command</th>
+                        <th>Description</th>
+                        <th>Usage</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><code>/ping</code></td>
+                        <td>Checks the bot's latency.</td>
+                        <td><code>/ping</code></td>
+                    </tr>
+                    <!-- Add more commands here dynamically later -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <footer class="text-center py-4 text-muted">
+        <p>&copy; 2026 My Bot. All rights reserved.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
