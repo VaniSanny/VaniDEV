@@ -2,7 +2,7 @@
   "id": "aniworld",
   "name": "AniWorld V2",
   "description": "AniWorld is an online streaming provider for german dubs.",
-  "manifestURI": "https://raw.githubusercontent.com/Pal-droid/Seanime-Providers/main/src/anime/aniworld/manifest.json",
+  "manifestURI": "https://raw.githubusercontent.com/VaniSanny/VaniDEV/refs/heads/main/manifest.json",
   "version": "1.2.0",
   "author": "Vani",
   "type": "onlinestream-provider",
